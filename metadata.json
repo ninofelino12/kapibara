@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat ID",
+  "description": "A responsive, dark-themed chat interface powered by Google Gemini 3 Pro, supporting real-time streaming responses.",
+  "requestFramePermissions": []
+}
